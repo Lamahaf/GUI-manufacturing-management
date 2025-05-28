@@ -1,0 +1,1 @@
+SELECT * FROM manufacturing_process.bom;

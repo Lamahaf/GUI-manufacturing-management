@@ -1,0 +1,19 @@
+SupplierID,SupplierName,Address,PhoneNumber,MaterialID,created_at,expected_delitime,quantity_delivery,unit_cost,tot_price,status
+S001,Robinson Inc,"5026 Jennifer Port Apt. 410, East Michael, OR 02965",1381421288,M001,4/20/2025 0:00,4/26/2025 0:00,32,20,640,Shipped
+S002,Alexander Inc,"63564 Hamilton Circles, Montgomeryview, NM 56036",1111428832,M002,4/20/2025 0:00,4/26/2025 0:00,27,22,594,Shipped
+S003,"Strong, Pacheco","0848 Fuentes Inlet Apt. 112, Leland, OR 33433",1231428888,M003,4/20/2025 0:00,4/26/2025 0:00,38,18,684,Shipped
+S004,Berry-Morse,"Unit 1822 Box 3938, DPO AP 46552, 1241428448",1241428448,M005,5/16/2025 0:00,5/20/2025 0:00,126,21,2646,In Delivery
+S019,Ibarra LLC,"94280 Melissa Lake, Walterhaven, AK 30514",1311424489,M026,5/16/2025 0:00,5/20/2025 0:00,108,23,2484,In Delivery
+S015,Heath Group,"72325 Mark Square, New Aaronburgh, NE 60538",1781455888,M016,5/16/2025 0:00,5/20/2025 0:00,84,43,3612,In Delivery
+S019,Ibarra LLC,"94280 Melissa Lake, Walterhaven, AK 30514",1311424489,M025,5/16/2025 0:00,5/20/2025 0:00,70,11,770,In Delivery
+S020,ThaiLLC,"94 The Lake, Walterhaven, AK 30514",1311424111,M029,5/16/2025 0:00,5/20/2025 0:00,126,21,2646,In Delivery
+S004,Berry-Morse,"Unit 1822 Box 3938, DPO AP 46552, 1241428448",1241428448,M005,5/16/2025 0:00,5/20/2025 0:00,15,21,315,In Delivery
+S010,Smith and Sons,"291 Samantha Court Suite 125, West Michaelfurt, PA 36196",1381428333,M011,5/16/2025 0:00,5/20/2025 0:00,3,12,36,In Delivery
+S002,Alexander Inc,"63564 Hamilton Circles, Montgomeryview, NM 56036",1111428832,M003,5/16/2025 0:00,5/20/2025 0:00,48,35,1680,In Delivery
+S018,Coleman-Riley,"0107 Hernandez Parkway Suite 558, North Jeremy, WA 17765",1441425588,M022,5/16/2025 0:00,5/21/2025 0:00,48,11,528,In Delivery
+S019,Ibarra LLC,"94280 Melissa Lake, Walterhaven, AK 30514",1311424489,M026,5/16/2025 0:00,5/21/2025 0:00,160,23,3680,In Delivery
+S005,Rowe,"Davis and Holland, 1304 James River Apt. 096, East Natalie",1381424428,M006,5/16/2025 0:00,5/21/2025 0:00,8,22.25,178,In Delivery
+S016,Frye PLC,"965 Bernard Spring Apt. 403, North Hannah, MP 89145",1181428822,M018,5/17/2025 0:00,5/21/2025 0:00,4,23,92,In Delivery
+S018,Coleman-Riley,"0107 Hernandez Parkway Suite 558, North Jeremy, WA 17765",1441425588,M023,5/18/2025 0:00,5/24/2025 0:00,10,23,230,In Delivery
+S008,Francis-Dominguez,"6709 Stone Springs, Joneshaven, VT 34493",1381428877,M010,5/19/2025 0:00,5/25/2025 0:00,8,11,88,In Delivery
+S010,Smith and Sons,"291 Samantha Court Suite 125, West Michaelfurt, PA 36196",1381428333,M011,5/20/2025 0:00,5/26/2025 0:00,18,12,216,In Delivery
