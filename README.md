@@ -1,1 +1,1 @@
-Please download the images in the folder for code execution. Otherwise, reading the **report file** would be more time-saving solution
+Please download the images in the folder for code execution. Otherwise, please read the **REPORT FILES** for a more thorough point of view 
